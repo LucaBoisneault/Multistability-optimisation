@@ -10,7 +10,6 @@ def run(cmd):
 
 def bb_pynomad(var):
     try:
-        print(var.__dir__())
         x = [var.get_coord(i) for i in range(var.size())]  # convert the Nomad input to list
 
         # modify the launching script
