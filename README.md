@@ -1,4 +1,4 @@
-# Multistability-optimisation
+# Multistability-optimization
 
 1. gfrdsgfd
 2. gdfgdf
